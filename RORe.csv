@@ -1,4 +1,4 @@
-Datum Uhrzeit;Temperatur Zulauf [°C];Druck Zulauf [bar];Druck Konzentrat [bar];Druck Permeat [bar];Durchfluss Zulauf [m³/h];Durchfluss Konzentrat [m³/h];Durchfluss Permeat [m³/h];elekt. Leitfähigkeit Zulauf [µS/cm];elekt. Leitfähigkeit Konzentrat [µS/cm];elekt. Leitfähigkeit Permeat [µS/cm];pH-Wert Zulauf
+timestamp;Temperatur Zulauf [Â°C];Druck Zulauf [bar];Druck Konzentrat [bar];Druck Permeat [bar];Durchfluss Zulauf [mÂ³/h];Durchfluss Konzentrat [mÂ³/h];Durchfluss Permeat [mÂ³/h];elekt. LeitfÃ¤higkeit Zulauf [ÂµS/cm];elekt. LeitfÃ¤higkeit Konzentrat [ÂµS/cm];elekt. LeitfÃ¤higkeit Permeat [ÂµS/cm];pH-Wert Zulauf
 2025-02-13 00:00:00;13,9;10,5;9,5;0,01;0;;;1098;;8,0;7,2
 2025-02-13 00:01:00;13,7;10,4;9,8;0,01;0;;;1098;;7,2;7,2
 2025-02-13 00:02:00;13,9;10,3;9,8;0,01;0;;;1098;;7,2;7,2
@@ -1439,3 +1439,4 @@ Datum Uhrzeit;Temperatur Zulauf [°C];Druck Zulauf [bar];Druck Konzentrat [bar];D
 2025-02-13 23:57:00;13,2;9,9;9,4;0,1;0;;;1098;;;7,2
 2025-02-13 23:58:00;13,5;9,4;9,2;0,1;0;;;1098;;;7,2
 2025-02-13 23:59:00;13,3;9,5;9,2;0,1;0;;;1098;;;7,2
+
